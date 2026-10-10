@@ -15,6 +15,12 @@
 - Word 输出到：
   `作业归档\{账号显示名}\{课程名}\{作业标题}\{作业标题}.docx`
 
+## Codex 自动化部署
+
+如果你或其他人 clone 本仓库后，想在自己的 Codex App 里配置每晚 20:00 自动检查、生成文本作业初稿并发送企业微信汇总，请阅读：
+
+[docs/CODEX_AUTOMATION.md](docs/CODEX_AUTOMATION.md)
+
 ## 安装
 
 ```powershell
