@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+reports/
+ai_drafts/
+ai_pending.json
+config/settings.backup-*.json
+config/settings.json
+config/settings.local.json
+*.sqlite3
+*.docx
+~$*.docx

@@ -1,0 +1,41 @@
+{
+  "result": 1,
+  "msg": "获取成功",
+  "channelList": [
+    {
+      "content": {
+        "id": 111,
+        "cpi": 222,
+        "isretire": 0,
+        "endDate": "2027-01-01 12:00",
+        "course": {
+          "data": [
+            {
+              "id": 333,
+              "name": "数据结构",
+              "teacherfactor": "张老师"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content": {
+        "id": 444,
+        "cpi": 555,
+        "isretire": -1,
+        "endDate": "2025-01-01 12:00",
+        "course": {
+          "data": [
+            {
+              "id": 666,
+              "name": "已结课课程",
+              "teacherfactor": "李老师"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+

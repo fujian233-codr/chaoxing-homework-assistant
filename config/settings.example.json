@@ -1,0 +1,20 @@
+{
+  "accounts": [],
+  "default_webhook_ref": "wecom_default",
+  "archive_root": "作业归档",
+  "max_courses_per_account": 12,
+  "request_delay_min_seconds": 0.8,
+  "request_delay_max_seconds": 1.5,
+  "request_timeout_seconds": 15,
+  "max_retry": 2,
+  "max_homework_pages": 5,
+  "ai_policy": {
+    "enabled": true,
+    "disclosure_required": false,
+    "scope": "marked_courses_text_assignments",
+    "confirmed_by_user": true,
+    "confirmed_at": "2026-10-10",
+    "note": "用户确认课程允许AI生成且无需披露；系统仅对显式标记课程生成文本作业初稿。"
+  },
+  "ai_allowed_courses": {}
+}
